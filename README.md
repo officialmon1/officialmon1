@@ -20,10 +20,10 @@
 I love experimenting with different areas of tech and learning by **hands-on projects**..
 
 Right now, I'm especially interested in:
-- 🤖 AI & machine learning
-- 💻 Full-stack software development
-- 🎮 Game development
-- 🧩 Competitive programming
+- AI & machine learning
+- Full-stack software development
+- Game development
+- Competitive programming
 
 I've built everything from **ML models and AI-powered systems to full-stack applications and games**, usually through hackathons, internships, or collaborative projects.
 
@@ -31,7 +31,7 @@ I've built everything from **ML models and AI-powered systems to full-stack appl
 
 ## 🚀 Featured Projects
 
-### ⚡ [Watts Happening](https://github.com/officialmon1/Watts_Happening) — ShellHacks 2026
+### [Watts Happening](https://github.com/officialmon1/Watts_Happening) — ShellHacks 2026
 
 A transmission infrastructure coordination platform built to uncover cost-saving opportunities between utilities. I developed a **Random Forest cost prediction model** and cost-impact logic across **1,315 transmission project records**.
 
@@ -39,7 +39,7 @@ A transmission infrastructure coordination platform built to uncover cost-saving
 
 ---
 
-### 🎮 [Project Roary](https://github.com/officialmon1/Project_Roary) — 2D Action RPG
+### [Project Roary](https://github.com/officialmon1/Project_Roary) — 2D Action RPG
 
 A 2D action RPG built with a **14-person cross-disciplinary team** through FIU INIT. I developed gameplay systems in **C# and Godot** across combat, NPC interactions, inventory, and other dynamic mechanics.
 
@@ -47,7 +47,7 @@ A 2D action RPG built with a **14-person cross-disciplinary team** through FIU I
 
 ---
 
-### 🌱 [GreenifyMe](https://github.com/officialmon1/GreenifyMe) — 2nd Place, UM AI Horizon 🏆
+### 🏆 [GreenifyMe](https://github.com/officialmon1/GreenifyMe) — 2nd Place, UM AI Horizon
 
 An **AI-powered micro-climate analysis tool** that explores how greenery and design changes can help cool urban spaces. I built interactive layouts and visualizations in **Streamlit** to showcase the team's AI-generated designs.
 
@@ -55,7 +55,7 @@ An **AI-powered micro-climate analysis tool** that explores how greenery and des
 
 ---
 
-### 🍳 [Overcooked-Inspired Game](https://github.com/officialmon1/Overcooked) — INIT Build
+### [Overcooked-Inspired Game](https://github.com/officialmon1/Overcooked) — INIT Build
 
 A cooperative cooking game created during a **9-week game development program**. I worked with **Unity, Blender, and C#** to create visual elements and assets for the game's environment and player experience.
 
@@ -113,7 +113,7 @@ A cooperative cooking game created during a **9-week game development program**.
 
 ## 🌱 Currently
 
-- 🤖 Exploring **AI/ML** through the Break Through Tech AI program
-- 🧩 Practicing algorithms with the **FIU Competitive Programming Team**
-- 🎮 Continuing to explore **game development** through FIU INIT
-- 💻 Building projects across **software engineering, AI, and full-stack development**
+- Exploring **AI/ML** through the Break Through Tech AI program
+- Practicing algorithms with the **FIU Competitive Programming Team**
+- Continuing to explore **game development** through FIU INIT
+- Building projects across **software engineering, AI, and full-stack development**
