@@ -17,7 +17,7 @@
 
 <img align="right" width="190" src="https://media3.giphy.com/media/2LmgEyEwBQvtM8Le9M/giphy.gif" alt="Monica's favorite GIF"/>
 
-I love experimenting with different areas of tech and learning by **actually building things**.
+I love experimenting with different areas of tech and learning by **hands-on projects**..
 
 Right now, I'm especially interested in:
 - 🤖 AI & machine learning
