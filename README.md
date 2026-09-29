@@ -27,8 +27,6 @@ Right now, I'm especially interested in:
 
 I've built everything from **ML models and AI-powered systems to full-stack applications and games**, usually through hackathons, internships, or collaborative projects.
 
-<br clear="right"/>
-
 ---
 
 ## 🚀 Featured Projects
