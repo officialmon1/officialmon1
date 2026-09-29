@@ -17,7 +17,7 @@
 
 <img align="right" width="190" src="https://media3.giphy.com/media/2LmgEyEwBQvtM8Le9M/giphy.gif" alt="Monica's favorite GIF"/>
 
-I love experimenting with different areas of tech and learning by **hands-on projects**..
+I love experimenting with different areas of tech and learning by **hands-on projects**.
 
 Right now, I'm especially interested in:
 - AI & machine learning
@@ -39,7 +39,7 @@ A transmission infrastructure coordination platform built to uncover cost-saving
 
 ---
 
-### [Project Roary](https://github.com/officialmon1/Project_Roary) — 2D Action RPG
+### [Project Roary](https://github.com/officialmon1/Project_Roary) — INIT Build Fall 2025
 
 A 2D action RPG built with a **14-person cross-disciplinary team** through FIU INIT. I developed gameplay systems in **C# and Godot** across combat, NPC interactions, inventory, and other dynamic mechanics.
 
@@ -47,19 +47,19 @@ A 2D action RPG built with a **14-person cross-disciplinary team** through FIU I
 
 ---
 
-### 🏆 [GreenifyMe](https://github.com/officialmon1/GreenifyMe) — 2nd Place, UM AI Horizon
-
-An **AI-powered micro-climate analysis tool** that explores how greenery and design changes can help cool urban spaces. I built interactive layouts and visualizations in **Streamlit** to showcase the team's AI-generated designs.
-
-`Python` `AI/ML` `Streamlit`
-
----
-
-### [Overcooked-Inspired Game](https://github.com/officialmon1/Overcooked) — INIT Build
+### [Overcooked-Inspired Game](https://github.com/officialmon1/Overcooked) — INIT Build Spring 2025
 
 A cooperative cooking game created during a **9-week game development program**. I worked with **Unity, Blender, and C#** to create visual elements and assets for the game's environment and player experience.
 
 `Unity` `Blender` `C#`
+
+---
+
+### [GreenifyMe](https://github.com/officialmon1/GreenifyMe) — 2nd Place, UM AI Horizon 🏆
+
+An **AI-powered micro-climate analysis tool** that explores how greenery and design changes can help cool urban spaces. I built interactive layouts and visualizations in **Streamlit** to showcase the team's AI-generated designs.
+
+`Python` `AI/ML` `Streamlit`
 
 ---
 
